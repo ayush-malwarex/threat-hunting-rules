@@ -45,11 +45,11 @@ Executes `cmove rax, rcx` followed by `xchg qword ptr ds:[rsi+r12*8], rax` to re
 
 ##3. Indicators of Compromise (IoCs)
 
-Indicator Type                      Value
-Campaign ID                        `BDNIMBUS`
-Version                            `2.7.23.13110`
-Artifact File                      `Qakbot.ini`
-Code Page                          `1252` (`0x4E4`)
+Indicator Type   |                   Value ||
+Campaign ID         |               `BDNIMBUS`
+Version              |              `2.7.23.13110`
+Artifact File         |             `Qakbot.ini`
+Code Page              |            `1252` (`0x4E4`)
 
 
 
