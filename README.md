@@ -19,7 +19,9 @@ yara -w rules/malware/qakbot/rule_qakbot_loader.yar /path/to/sample.exe
 # Test memory signatures against process dump
 yara -w rules/malware/qakbot/rule_qakbot_memory_patterns.yar /path/to/process.dmp
 
-Connect & Contact
+```
+
+## Connect & Contact
 Author: Ayush
 
 LinkedIn: ayush-malwarex
