@@ -22,12 +22,12 @@ yara -w rules/malware/qakbot/rule_qakbot_memory_patterns.yar /path/to/process.dm
 ```
 
 ## Connect & Contact
-Author: Ayush
+Author: Ayush Malwarex
 
-LinkedIn: ayush-malwarex
+LinkedIn: `ayush-malwarex`
 
-X (Twitter): @ayush_malwarex
+X (Twitter): `@ayush_malwarex`
 
-Discord: ayush.malwarex
+Discord: `ayush.malwarex`
 
-Substack: Ayush MalwareX Writeups(@ayushmalwarex)
+Substack: Ayush MalwareX Writeups(`@ayushmalwarex`)
