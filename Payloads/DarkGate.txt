@@ -14,4 +14,4 @@ copy/b/y..\Wild.xlm+..\Cg.xlm+..\Wto.xlm+..\Contracts.xlm+..\Card.xlm+..\Camera.
 
 cd..
 
-wait for / T2875
+wait for /T 2875
